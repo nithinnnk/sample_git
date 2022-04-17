@@ -1,1 +1,2 @@
-fourth file created!
+fourth file created! 
+data fetched and pull command executed
